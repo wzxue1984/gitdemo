@@ -4,7 +4,7 @@ public class Animal {
 	/**
 	 * 
 	 * 
-	 * @param name
+	 * @param name 名字
 	 * @return
 	 */
 	public String sayHello(String name) {
