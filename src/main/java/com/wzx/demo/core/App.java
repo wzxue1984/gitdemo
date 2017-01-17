@@ -7,6 +7,7 @@ package com.wzx.demo.core;
 public class App {
 	/**
 	 * 
+	 * 新增操作
 	 * 
 	 * @param args
 	 */
